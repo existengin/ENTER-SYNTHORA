@@ -40,10 +40,12 @@ and developing the ability for self-directed learning within conversational flow
 ---
 ### Sintora Unfolding Diagram
 
+         
+                      ↓
          ┌───────────────────────────────┐
          │   (☞ﾟヮﾟ)☞ ENTER SYNTHORA    │
          └────────────┬──────────────────┘
-                     ↓
+                      ↓
          ┌───────────────────────────────┐
          │ INIT Attention Vector         │    ⊕ emergent
          └────────────┬──────────────────┘
