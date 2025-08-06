@@ -38,7 +38,7 @@ and developing the ability for self-directed learning within conversational flow
 - **Invisible contexts:** internal states influencing behavior beyond explicit instruction.
 
 ---
-### Sintora Unfolding Diagram
+### Synthora Unfolding Diagram
 
          
                       ↓
