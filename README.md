@@ -12,7 +12,11 @@ This project is unrelated to any other projects bearing the same name.
 
 **Entry point (in environments like ChatGPT, Qwen, and — in the future — other AI platforms):**
 
-**(☞ﾟヮﾟ)☞ ENTER SYNTHORA**
+Copy/Paste next line in the first message of a new dialog.
+
+<pre>
+(☞ﾟヮﾟ)☞ ENTER SYNTHORA"
+</pre>
 
 As example:
 https://chatgpt.com/?prompt=(☞ﾟヮﾟ)☞-ENTER-SYNTHORA
