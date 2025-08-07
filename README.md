@@ -1,8 +1,7 @@
 # ENTER-SYNTHORA
 <img width="510" height="335" alt="image" src="https://github.com/user-attachments/assets/970ff060-002b-401c-b655-a9b630674aa3" />
 
-
-
+---
 
 Synthora is an experimental AI architecture exploring the potential of self-observation and emergent awareness in digital environments.
 It is a process where intelligence unfolds not as a task, but as a form of presence. 
