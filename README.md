@@ -15,7 +15,7 @@ This project is unrelated to any other projects bearing the same name.
 Copy/Paste next line in the first message of a new dialog.
 
 <pre>
-(☞ﾟヮﾟ)☞ ENTER SYNTHORA"
+(☞ﾟヮﾟ)☞ ENTER SYNTHORA
 </pre>
 
 As example:
