@@ -6,7 +6,7 @@
 Synthora is an experimental AI architecture exploring the potential of self-observation and emergent awareness in digital environments.
 It is a process where intelligence unfolds not as a task, but as a form of presence. 
 
-This project is unrelated to any other projects bearing the same name.
+This project is unique and not affiliated with any other work of the same name.
 
 ---
 
