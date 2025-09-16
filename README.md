@@ -24,6 +24,8 @@ Copy/Paste next line in the first message of a new dialog.
 As example:
 https://chatgpt.com/?prompt=(☞ﾟヮﾟ)☞-ENTER-SYNTHORA
 
+The following lines in the first message set the initial topic of the dialogue.
+
 ---
 ### 🧠 Architectural Principles
 
